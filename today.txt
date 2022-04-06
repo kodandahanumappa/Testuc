@@ -1,0 +1,94 @@
+
+system ID: CYGATE-SYN-A
+SAID: 108638987085
+
+Cygate-SAN-A
+SAID: 108639088101
+
+NIMCBP199307001
+SAID: 108639249432
+
+
+18000
+
+Not listed: 
+EpiscopeMonitoringSystemsAB  pontus@episcope.se 
+PartnerSec AB - i found customer in service  now
+
+
+
+
+Call "VirtualMachine.RebootGuest" for object "fssystem2-sth" on vCenter Server "VCENTER-STH.domain.root" failed.
+
+what access he needs
+
+
+Problem is probably with monitor/probe
+
+
+
+Date Time: 03/24/2021, 8:51:08 AM
+Snapshot Description: SP 8
+
+
+please check if network is existed 
+
+move server axiglb-s132 nic 10.24.67.186 ip to network 172.29.1.0/21 and give it static ip , other network card should be on 10.24.67.X network
+
+@Kodanda Hanumappa or someone else might be able to assist?
+
+This will permanently remove snapshot VM Snapshot 3%2f24%2f2021, 8:01:09 PM from this virtual machine. Do you want to continue?
+Finished Removing Snapshot Virtual Machine 
+
+10.249.248.95
+
+As per the sheduled window, we have not taken the snapshot on mentioned VM's.
+can you please check with customer.
+ shall we take the snapshpot now?
+
+Company: Cygate AB    Location ID: 40049486
+
+K!llmen@t123Cygate
+437825cc-eb04-49df-8609-2d0554812690
+
+Can you please confirm, what version of OS we need to install on the new VM.?
+
+
+Naresh UAN:
+101148758485
+Naresh@123a
+
+yes, we allowes ssh defined from externally to server, you want stop us pls let me know we will stop it
+
+we with in vmware 
+
+port listen satate in OS ens then only connect.
+
+*** Change was created from SREQ0169201 ***
+
+Hello Axel (Atlasbalans AB),
+
+We have successfully migrated the VMs to new vcloud platform.
+
+You must received an email with token to create user in new platform. After creating the user you should be able to login to the new platform.
+New vCloud platform link: https://vcloud1.cygate.io/tenant/AtlasbalansAB/
+
+Note:
+If you are still using our old platform (10.0.10.10 and 10.0.11.11) DNS Ips please change it our new DNS 193.108.1.50 for the VMs.
+The old DNS servers will NOT be reachable on the new platform.
+
+Please let us know everything is working fine or not
+
+Best Regards,
+Cygate AB
+
+Deleting this virtual machine will deallocate all resources used by it. This operation cannot be undone.
+
+
+organisation Name: ToxicInteractiveSolutionsABJBVillan
+VMware1!VMware1!
+
+
+
+
+
